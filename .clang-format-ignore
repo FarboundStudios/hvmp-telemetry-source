@@ -1,0 +1,3 @@
+native/sdk/**
+native/vendor/**
+native/heavymp_recovery_archive.h

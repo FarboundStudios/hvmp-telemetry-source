@@ -1,0 +1,184 @@
+SiiNunit
+{
+vehicle : .fallback {
+ fuel_relative: 0.5
+ accessories[]: .hmfb0
+ accessories[]: .hmfb1
+ accessories[]: .hmfb2
+ accessories[]: .hmfb3
+ accessories[]: .hmfb4
+ accessories[]: .hmfb5
+ accessories[]: .hmfb6
+ accessories[]: .hmfb7
+ accessories[]: .hmfb8
+ accessories[]: .hmfb9
+ accessories[]: .hmfb10
+ accessories[]: .hmfb11
+ accessories[]: .hmfb12
+ accessories[]: .hmfb13
+ accessories[]: .hmfb14
+ accessories[]: .hmfb15
+ accessories[]: .hmfb16
+ accessories[]: .hmfb17
+ accessories[]: .hmfb18
+ accessories[]: .hmfb19
+ accessories[]: .hmfb20
+ accessories[]: .hmfb21
+ accessories[]: .hmfb22
+ accessories[]: .hmfb23
+ accessories[]: .hmfb24
+ accessories[]: .hmfb25
+ accessories[]: .hmfb26
+ accessories[]: .hmfb27
+ accessories[]: .hmfb28
+ accessories[]: .hmfb29
+ accessories[]: .hmfb30
+}
+
+vehicle_accessory : .hmfb0 {
+ data_path: "/def/vehicle/truck/scania.r/data.sii"
+}
+
+vehicle_accessory : .hmfb1 {
+ data_path: "/def/vehicle/truck/scania.r/chassis/4x2.sii"
+}
+
+vehicle_accessory : .hmfb2 {
+ data_path: "/def/vehicle/truck/scania.r/cabin/normal.sii"
+}
+
+vehicle_accessory : .hmfb3 {
+ data_path: "/def/vehicle/truck/scania.r/interior/normal.sii"
+}
+
+vehicle_accessory : .hmfb4 {
+ data_path: "/def/vehicle/truck/scania.r/engine/dc13_360.sii"
+}
+
+vehicle_accessory : .hmfb5 {
+ data_path: "/def/vehicle/truck/scania.r/transmission/12_speed.sii"
+}
+
+vehicle_accessory : .hmfb6 {
+ data_path: "/def/vehicle/truck/scania.r/head_light/standard.sii"
+}
+
+vehicle_wheel_accessory : .hmfb7 {
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/f_tire/1.sii"
+}
+
+vehicle_wheel_accessory : .hmfb8 {
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/r_tire/1.sii"
+}
+
+vehicle_paint_job_accessory : .hmfb9 {
+ mask_r_color: (1.000000, 0.000000, 0.000000)
+ mask_g_color: (0.000000, 1.000000, 0.000000)
+ mask_b_color: (0.000000, 0.000000, 1.000000)
+ flake_color: (1.000000, 1.000000, 1.000000)
+ flip_color: (1.000000, 1.000000, 1.000000)
+ base_color: (0.18, 0.18, 0.18)
+ data_path: "/def/vehicle/truck/scania.r/paint_job/color0.sii"
+}
+
+vehicle_addon_accessory : .hmfb10 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/doorstep/shape1.sii"
+}
+
+vehicle_addon_accessory : .hmfb11 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/doorhndl/shape1.sii"
+}
+
+vehicle_addon_accessory : .hmfb12 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/mirror/shape1.sii"
+}
+
+vehicle_addon_accessory : .hmfb13 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/s_mirror/shape1.sii"
+}
+
+vehicle_addon_accessory : .hmfb14 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/sunshld/shape1.sii"
+}
+
+vehicle_addon_accessory : .hmfb15 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/f_mirror/shape1.sii"
+}
+
+vehicle_addon_accessory : .hmfb16 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/sideskirt/shape1.sii"
+}
+
+vehicle_addon_accessory : .hmfb17 {
+ data_path: "/def/vehicle/truck/scania.r/badge/r360.sii"
+}
+
+vehicle_wheel_accessory : .hmfb18 {
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/f_disc/front_disc_02_matt_gray.sii"
+}
+
+vehicle_addon_accessory : .hmfb19 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/r_bumper/shape1.sii"
+}
+
+vehicle_addon_accessory : .hmfb20 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/f_intake_cab/shape1.sii"
+}
+
+vehicle_addon_accessory : .hmfb21 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/steering_w/standard.sii"
+}
+
+vehicle_addon_accessory : .hmfb22 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/c_badge/euro_none.sii"
+}
+
+vehicle_addon_accessory : .hmfb23 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/f_intake_chs/shape1.sii"
+}
+
+vehicle_wheel_accessory : .hmfb24 {
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .hmfb25 {
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/f_nuts/front_nuts_01_steel.sii"
+}
+
+vehicle_wheel_accessory : .hmfb26 {
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/r_disc/rear_disc_01_matt_gray.sii"
+}
+
+vehicle_wheel_accessory : .hmfb27 {
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+
+vehicle_wheel_accessory : .hmfb28 {
+ offset: 0
+ paint_color: (1.000000, 1.000000, 1.000000)
+ data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+}
+
+vehicle_addon_accessory : .hmfb29 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/r_mudflap/r_mudflap.sii"
+}
+
+vehicle_addon_accessory : .hmfb30 {
+ data_path: "/def/vehicle/truck/scania.r/accessory/trlr_cables/stock.sii"
+}
+
+}
